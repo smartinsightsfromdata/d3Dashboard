@@ -1,0 +1,11 @@
+Package: d3Dashboard
+Type: Package
+Title: D3 in R
+Description: A package for using d3 graphs from R
+Version: 0.1
+Date: 2014-11-10
+Author: Dr. Simon Müller
+Maintainer: Dr. Simon Müller <info@muon-stat.com>
+License: GPL (>= 3)
+Imports:
+    jsonlite
