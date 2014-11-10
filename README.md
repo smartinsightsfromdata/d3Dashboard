@@ -3,7 +3,9 @@ Tools for creating D3 graphs from R
 
 Version 0.1
 
-My first attempts of walking with D3 and R, motivated by Christopher Gandrud's package [networkD3](https://github.com/christophergandrud/networkD3). The great framework package [htmlwidgets](https://github.com/ramnathv/htmlwidgets) is used for this package. 
+My first attempts of walking with D3 and R, motivated by Christopher Gandrud's package [networkD3](https://github.com/christophergandrud/networkD3). The great framework package [htmlwidgets](https://github.com/ramnathv/htmlwidgets) is used for this package.
+
+With this package the d3 bullet graph from [http://bl.ocks.org/mbostock/4061961](http://bl.ocks.org/mbostock/4061961) can be used  from R. 
 
 ## Installation
 
